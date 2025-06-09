@@ -180,5 +180,6 @@ nav:
     - 系统概述: page/系统概述.md
     - 用户与权限: page/用户与权限.md
     - 文件系统与管理: page/文件系统与管理.md
+    - Google Authenticator(2FA): page/2FA.md
   - 技术:
     - Windows绕过OOBE: page/Windows绕过OOBE.md
