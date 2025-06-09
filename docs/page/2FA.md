@@ -1,4 +1,6 @@
-Google Authenticator(2FA)
+# Google Authenticator(2FA)
+
+2FA（双重身份验证，Two-Factor Authentication）是一种用于增强账户安全性的身份验证方法。它要求用户在登录时提供 **两种不同类型的验证信息** ，从而比仅使用用户名和密码更安全。
 
 ```
 git https://github.com/google/google-authenticator-libpam
