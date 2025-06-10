@@ -7,7 +7,8 @@ pygments~=2.16
 pymdown-extensions~=10.2
 mkdocs-material>=9.0.0
 mkdocs-minify-plugin
-mkdocs-awesome-pages-plugin
+mkdocs-awesome-nav
+
 
 
 # Requirements for plugins
